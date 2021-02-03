@@ -14,7 +14,9 @@ Gongura is famous for its **unique** taste in our hometown. So, I like **Gongura
   * tape.
   * ribbon
   * scissor. 
-2. Catch the pair of flowers in hand, cut the uneven stems and arrange them in almost equal heigt.
+2. Catch the pair of flowers in hand, cut the uneven stems and arrange them in almost equal heigt.  
+    1. Make sure flowers are clean.
+    2. Add some decorative colors to look beatiful.
 6. Wrap them with palthin sheet and use some tape to hold.
 3. Tie the ribbon around the bouquet for good look.
 5. Bouquet is ready.
