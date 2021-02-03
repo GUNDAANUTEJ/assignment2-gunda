@@ -18,7 +18,7 @@ Here is the link for my image:
    3. Niagara falls
    4. Nandi hills
 
-> Table format about important places to visit.Which includes location, number of hours visitors should spend and total amount it costs.
+ Table format about important places to visit.Which includes location, number of hours visitors should spend and total amount it costs.
 
    location    | Hours to spend| Total Amount |  
  | ------------ | -------------: | ----------: |
@@ -27,6 +27,13 @@ Here is the link for my image:
  | Niagara falls| 4 | 10000 $ |
  | Nandi hills | 3| 5000rps |
  
+ ---
+ ## TWO IMPORTANT QUOTES
+
+ > Either write something worth reading or do something worth writing --*Benjamin Franklin*. <br>
+ > Start before you’re ready --*Steven Pressfield*
+
+
  
 
 
