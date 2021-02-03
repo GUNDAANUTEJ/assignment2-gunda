@@ -10,4 +10,4 @@
         ![](https://media.tacdn.com/media/attractions-splice-spp-674x446/06/e3/a0/6a.jpg)
 
 4. Nandi hills : 
-        ![](https://static-r1.asianetnews.com/images/01e3c9gbm4qr1brfxs86xrhpqe/nandi-hills-jpg_1200x630xt.jpg)        
+        ![](https://i2.wp.com/soulesplanade.com/wp-content/uploads/2016/12/IMG-20151024-WA0029.jpg?fit=1000%2C750)        
