@@ -2,9 +2,9 @@
 
 I'm a cool going person. Always interested to learn new things to explore and to be updated.
 
-Here is the link for my image: 
+Image: 
 
-![myimage](C:\Users\S542408\Pictures\myimage.gif)
+![myimage](https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-mont-st-michel.jpg)
 
 <br>
 
