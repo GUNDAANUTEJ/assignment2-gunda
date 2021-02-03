@@ -4,11 +4,11 @@ I'm a cool going person. Always interested to learn new things to explore and to
 
 Here is the link for my image: 
 
- ![myimage](C:\Users\S542408\Pictures\myimage.gif)
+![myimage](C:\Users\S542408\Pictures\myimage.gif)
 
 <br>
 
- ---
+---
  
 # Important places to visit
  
@@ -32,6 +32,32 @@ Here is the link for my image:
 
  > Either write something worth reading or do something worth writing --*Benjamin Franklin*. <br>
  > Start before you’re ready --*Steven Pressfield*
+
+ ***
+
+ # Code Fencing
+
+ >Script.NET : Script.NET or S# is a metaprogramming language that provides scripting functionality in Microsoft .NET applications, allowing runtime execution of custom functionality, similar to VBA in Microsoft Office applications.
+  <https://en.wikipedia.org/wiki/Script.NET#Hello_world>
+
+```
+ a=[17, 0, 5, 3,1, 2, 55];
+for (i=0; i < a.Length; i=i+1)
+ for (j=i+1; j <  a.Length; j=j+1)
+   if (a[i] > a[j] )
+   {
+     temp = a[i]; 
+     a[i] = a[j];
+     a[j] = temp;
+   }
+
+s = 'Results:';
+for (i=0; i < a.Length; i++)
+  s = s + ',' + a[i];
+
+MessageBox.Show(s);
+```
+<https://en.wikipedia.org/wiki/Script.NET#Hello_world>
 
 
  
