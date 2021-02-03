@@ -38,7 +38,7 @@ Image:
  # Code Fencing
 
  >Script.NET : Script.NET or S# is a metaprogramming language that provides scripting functionality in Microsoft .NET applications, allowing runtime execution of custom functionality, similar to VBA in Microsoft Office applications.
-  <https://en.wikipedia.org/wiki/Script.NET#Hello_world>
+ Quick link to source : <https://en.wikipedia.org/wiki/Script.NET>
 
 ```
  a=[17, 0, 5, 3,1, 2, 55];
