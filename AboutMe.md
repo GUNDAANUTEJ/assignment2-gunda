@@ -28,15 +28,15 @@ Image:
  | Nandi hills | 3| 5000rps |
  
  1. Chickmagalur : 
-        ![](Images\image1.jpg)
+  ![](Images\image1.jpg)
 2. Coorg :
-      ![](Images\image2.jpg)
+  ![](Images\image2.jpg)
 
 3. Niagara falls :
-        ![](Images\image3.jpg)
+  ![](Images\image3.jpg)
 
 4. Nandi hills : 
-        ![](Images\image4.jpg)
+  ![](Images\image4.jpg)
 
  ---
  ## TWO IMPORTANT QUOTES
