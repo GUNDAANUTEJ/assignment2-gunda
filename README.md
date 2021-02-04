@@ -25,6 +25,5 @@ Gongura is famous for its **unique** taste in our hometown. So, I like **Gongura
 
 
 
-
 link to AboutMe file
-  <C:\Users\S542408\Documents\webapps-repos\assignment2-gunda\AboutMe.md>
+  <AboutMe.md>
