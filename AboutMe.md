@@ -4,7 +4,7 @@ I'm a cool going person. Always interested to learn new things to explore and to
 
 Image: 
 
-![myimage](C:\Users\S542408\Documents\webapps-repos\assignment2-gunda\IMAGES.md\IMAGES.md)
+![myimage](myimage.gif)
 
 <br>
 
