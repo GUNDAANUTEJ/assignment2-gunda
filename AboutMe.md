@@ -4,7 +4,7 @@ I'm a cool going person. Always interested to learn new things to explore and to
 
 Image: 
 
-![myimage](myimage.gif)
+![my image](myimage.gif)
 
 <br>
 
