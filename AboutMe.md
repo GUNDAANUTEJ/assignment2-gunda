@@ -4,7 +4,7 @@ I'm a cool going person. Always interested to learn new things to explore and to
 
 Image: 
 
-![myimage](https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-mont-st-michel.jpg)
+![myimage](thispc/documents/webapps-repos/assignment2-gunda/myimage.gif)
 
 <br>
 
