@@ -20,7 +20,7 @@ Image:
 
  Table format about important places to visit.Which includes location, number of hours visitors should spend and total amount it costs.
 
-   location    | Hours to spend| Total Amount |  
+  location    | Hours to spend| Total Amount |  
  | ------------ | -------------: | ----------: |
  |  Chikmagalur|  6 | 10000rps |
  |   Coorg |  8 | 12000rps |
@@ -28,7 +28,7 @@ Image:
  | Nandi hills | 3| 5000rps |
  
  1. Chickmagalur : 
-  ![](Images\image1.jpg)
+        ![](Images\image1.jpg)
 2. Coorg :
   ![](Images\image2.jpg)
 
